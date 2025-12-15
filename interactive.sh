@@ -37,6 +37,6 @@ dir()
 }
 
 case "$LANGUAGE" in
-"ENGLISH") source $(dir)/files/UI_en.sh ;;
+"ENGLISH") bash $(dir)/files/UI_en.sh ;;
 "RUSSIAN") echo Russian
 esac
