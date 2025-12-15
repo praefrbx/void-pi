@@ -1,2 +1,1 @@
-# void-pi
-Post Installer
+# THIS SCRIPT IS VERY WIP, IT WILL BE BUGGY
